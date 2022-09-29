@@ -20,6 +20,12 @@ header{
 
 }
 
+.formulario1{
+
+    margin: 50px;
+}
+
+
 nav{
 
     position: absolute;
@@ -105,7 +111,7 @@ form label, form legend{
 
 table{
 
-    margin: 40px 40px;
+    margin: 40px 50px;
 }
 
 thead{
